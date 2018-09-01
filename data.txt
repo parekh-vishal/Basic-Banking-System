@@ -1,0 +1,9 @@
+vi pa 89 13 6 199 AB 15-surya Ahmd Guj 2180 vish 100001
+ti pa 87 12 12 12 ti sola ahmd guj 5000 tir 100002
+ya pa 78 2 3 1999 AXC Sci Ahmd Guj 2000 yash 100003
+rj pr 88 21 7 1999 AXZ123 vyas Ahme Guj 3200 rj 100004
+vish va 79 21 1 2111 qqqw naroda Ahmd Guj 3200 vish 100005
+raj va 2 1 2 1222 asd surat surat GUJ 12000 raj 100006
+Dhaval Patel 123 1 2 2000 AXC003 NAroda Ahme Guj 2000 1 100007
+Jay patel 878 3 2 2000 ASD234 naroda ahmd guj 5500 Jay 100008
+Rahul patel 777 23 3 1998 WSD123 naroda ahmd guj 1944 rahul 100009
